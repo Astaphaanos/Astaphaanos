@@ -14,15 +14,17 @@ Desenvolvedora Front-end | React | JavaScript | HTML/CSS
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   
-| JavaScript | React | HTML5 | CSS3 |
-|------------|-------|-------|------|
+| JavaScript | React | HTML5 | CSS3 | Git | Figma |
+|------------|-------|-------|------|-----|-------|
+
 | <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=react" width="50"> | <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://skillicons.dev/icons?i=git" width="50"> | <img src="https://skillicons.dev/icons?i=figma" width="50"> |
 
 </div>
 
 ### Atualmente focando em: 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+| Node.js | MongoDB | MySQL |
+|---------|---------|-------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
 
 
 ## 🌟 Sobre Mim
