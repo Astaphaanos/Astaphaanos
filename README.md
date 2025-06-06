@@ -21,10 +21,11 @@ Desenvolvedora Front-end | React | JavaScript | HTML/CSS
 </div>
 
 ### Atualmente focando em: 
-| Node.js | MongoDB | MySQL |
-|---------|---------|-------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-
+<div align="center">
+| Node.js |  MongoDB | MySQL |
+|---------|----------|-------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" /> | <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" />
+</div>
 
 ## 🌟 Sobre Mim
 
