@@ -14,10 +14,9 @@ Desenvolvedora Front-end | React | JavaScript | HTML/CSS
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   
-| JavaScript | React | HTML5 | CSS3 | Git | Figma |
-|------------|-------|-------|------|-----|-------|
-
-| <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=react" width="50"> | <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://skillicons.dev/icons?i=git" width="50"> | <img src="https://skillicons.dev/icons?i=figma" width="50"> |
+| JavaScript | React | HTML5 | CSS3 | Git |
+|------------|-------|-------|------|-----|
+| <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=react" width="50"> | <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://skillicons.dev/icons?i=git" width="50"> |
 
 </div>
 
