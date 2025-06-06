@@ -4,6 +4,7 @@ Desenvolvedora Front-end | React | JavaScript | HTML/CSS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-clara-amorim/)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:clardev@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-six-10.vercel.app/)
 
 ## 📊 Minhas Estatísticas no GitHub
 
@@ -20,11 +21,6 @@ Desenvolvedora Front-end | React | JavaScript | HTML/CSS
 
 ### Atualmente focando em: 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-## 📫 Como Me Encontrar
-
-- ✉️ **Email**: [clardev@outlook.com](mailto:clardev@outlook.com)
-- 💼 **LinkedIn**: [Anna Clara Amorim](https://www.linkedin.com/in/anna-clara-amorim/)
 
 ## 🌟 Sobre Mim
 
