@@ -16,12 +16,12 @@
 
 </div>
 
-### Outras Habilidades
+### Atualmente focando em:
 <div align="center">
   
-| Node.js | Python | Git | Figma |
-|---------|--------|-----|-------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=python" width="50"> | <img src="https://skillicons.dev/icons?i=git" width="50"> | <img src="https://skillicons.dev/icons?i=figma" width="50"> |
+| Node.js |
+|---------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> |
 
 </div>
 
@@ -37,16 +37,3 @@
 ## 🌟 Projetos Destacados
 
 ### [Meu Portfólio](https://portfolio-alpha-six-10.vercel.app/)
-✨ Projeto pessoal desenvolvido com:
-- React.js
-- CSS moderno (Flexbox/Grid)
-- Design responsivo
-- Animações CSS
-- SEO otimizado
-
-```javascript
-// Exemplo do meu código
-function greetDev() {
-  const skills = ['JavaScript', 'React', 'CSS'];
-  return `Bem-vindo ao meu mundo ${skills.join(' • ')}`;
-}
