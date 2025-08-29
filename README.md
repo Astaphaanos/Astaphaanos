@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Clara Amorim! 
 
-Desenvolvedora Front-end | React | JavaScript | HTML/CSS
+Desenvolvedora FullStack | React | JavaScript | HTML/CSS | Node.js | Express | SQL | NoSQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-clara-amorim/)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:clardev@outlook.com)
