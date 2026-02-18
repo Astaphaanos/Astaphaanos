@@ -6,11 +6,6 @@ Desenvolvedora FullStack | React | JavaScript | HTML/CSS | Node.js | Express | S
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:clardev@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-alpha-six-10.vercel.app/)
 
-## 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Astaphaanos&show_icons=true&theme=tokyonight&hide_title=true)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Astaphaanos&layout=compact&theme=tokyonight)](https://github.com/Astaphaanos)
-
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   
