@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Clara Amorim! 
 
-Desenvolvedora FullStack | React | JavaScript | HTML/CSS | Node.js | Express | SQL | NoSQL
+Desenvolvedora Back-End | Node.js | JavaScript | Express | Sequelize | MySQL | MongoDB | APIs REST | JWT  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anna-clara-amorim/)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:clardev@outlook.com)
@@ -9,21 +9,39 @@ Desenvolvedora FullStack | React | JavaScript | HTML/CSS | Node.js | Express | S
 ## 🚀 Tecnologias que Utilizo
 <div align="center">
   
-| JavaScript | React | HTML5 | CSS3 | Git |
-|------------|-------|-------|------|-----|
-| <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=react" width="50"> | <img src="https://skillicons.dev/icons?i=html" width="50"> | <img src="https://skillicons.dev/icons?i=css" width="50"> | <img src="https://skillicons.dev/icons?i=git" width="50"> |
+| JavaScript | Node.js | Express | Sequelize | MySQL | MongoDB |
+|------------|----------|----------|------------|--------|----------|
+| <img src="https://skillicons.dev/icons?i=js" width="50"> | <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=express" width="50"> | <img src="https://skillicons.dev/icons?i=sequelize" width="50"> | <img src="https://skillicons.dev/icons?i=mysql" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"> |
 
 </div>
 
-### Atualmente focando em: 
-<div align="center">
-  
-| Node.js | MongoDB | MySQL | 
-|---------|---------|-------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="50"> | <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" width="50" /> |   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="50" /> |
+## 🔐 Conhecimentos em Back-End
 
-</div>
+- Desenvolvimento de APIs REST
+- Autenticação e autorização com JWT
+- Estruturação de projetos (MVC)
+- Integração com bancos de dados relacionais e não relacionais
+- Validação de dados e tratamento de erros
+- Controle de acesso e rotas protegidas
+- Versionamento com Git
+
+---
+
+## 🌱 Atualmente focando em
+
+- Arquitetura de APIs escaláveis  
+- Boas práticas de segurança no back-end  
+- Organização e padronização de código  
+- Aprimoramento em banco de dados  
+
+---
 
 ## 🌟 Sobre Mim
+Sou apaixonada por desenvolvimento e por entender o que acontece "por trás das telas".  
+Gosto de estruturar aplicações, organizar regras de negócio e criar sistemas seguros e eficientes.
 
-Apaixonada por desenvolvimento web e sempre em busca de aprender novas tecnologias. Adoro transformar ideias em código e criar soluções criativas para problemas complexos.
+Estou sempre buscando evoluir tecnicamente, aprendendo mais sobre arquitetura, segurança e boas práticas para construir aplicações cada vez mais robustas.
+
+---
+
+⭐ Sempre aberta a aprender, colaborar e crescer na área de tecnologia.
